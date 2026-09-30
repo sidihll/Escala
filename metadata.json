@@ -1,0 +1,6 @@
+{
+  "name": "Sistema de Escala Hospitalar & Auditoria CLT",
+  "description": "Sistema de gestão de escala mensal completa para enfermagem (12x36 e 6x1) com auditoria de conformidade CLT (Art. 59-A, 66 e 67) e integração com Supabase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
